@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fluffy-cats/static/css/main.301cb26c.chunk.css",
+    "main.js": "/fluffy-cats/static/js/main.bddbe12c.chunk.js",
+    "main.js.map": "/fluffy-cats/static/js/main.bddbe12c.chunk.js.map",
+    "runtime-main.js": "/fluffy-cats/static/js/runtime-main.cd3385f0.js",
+    "runtime-main.js.map": "/fluffy-cats/static/js/runtime-main.cd3385f0.js.map",
+    "static/js/2.40c0c9b2.chunk.js": "/fluffy-cats/static/js/2.40c0c9b2.chunk.js",
+    "static/js/2.40c0c9b2.chunk.js.map": "/fluffy-cats/static/js/2.40c0c9b2.chunk.js.map",
+    "static/js/3.48480f95.chunk.js": "/fluffy-cats/static/js/3.48480f95.chunk.js",
+    "static/js/3.48480f95.chunk.js.map": "/fluffy-cats/static/js/3.48480f95.chunk.js.map",
+    "index.html": "/fluffy-cats/index.html",
+    "static/css/main.301cb26c.chunk.css.map": "/fluffy-cats/static/css/main.301cb26c.chunk.css.map",
+    "static/js/2.40c0c9b2.chunk.js.LICENSE.txt": "/fluffy-cats/static/js/2.40c0c9b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd3385f0.js",
+    "static/js/2.40c0c9b2.chunk.js",
+    "static/css/main.301cb26c.chunk.css",
+    "static/js/main.bddbe12c.chunk.js"
+  ]
+}
